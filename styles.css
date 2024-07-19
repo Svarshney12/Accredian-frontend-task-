@@ -1,0 +1,46 @@
+/* Basic Reset */
+body, h1, h2, p, input, textarea, button {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, sans-serif;
+}
+
+.hero {
+    text-align: center;
+    padding: 50px;
+    background-color: #f4f4f4;
+}
+
+.hero h1 {
+    margin-bottom: 20px;
+}
+
+.hero button {
+    margin-top: 20px;
+}
+
+/* Modal Styles */
+.modal {
+    width: 80%;
+    max-width: 600px;
+}
+
+.modal-content {
+    padding: 20px;
+}
+
+.modal-footer {
+    text-align: right;
+}
+
+.modal-close {
+    color: #f44336;
+}
+
+.modal-close:hover {
+    color: #c62828;
+}

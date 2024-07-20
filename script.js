@@ -20,8 +20,10 @@ document.addEventListener('DOMContentLoaded', function() {
         }
         else{
             const payload = {
-                name: "Vaibhav",
-                email: "vaib1343@gmail.com"
+                ReferralName: "Subhi",
+                ReferralEmail: "subhivarshney012@gmail.com",
+                RefereeName: "Vaibhav",
+                RefereeEmail: "vaib1343@gmail.com",
               };
               
               // Define the fetch options
